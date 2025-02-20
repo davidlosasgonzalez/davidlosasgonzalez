@@ -66,6 +66,6 @@ _¡La IA podrá hacer muchas cosas, pero aún no puede replicar a un 4x4 como yo
 
 ## 📫 Contacto
 
-Si quieres conectar puedes encontrarme en [LinkedIn]([https://www.linkedin.com/in/davidlosas](https://www.linkedin.com/in/david-losas-gonzalez-2ba888174).
+Si quieres conectar puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/david-losas-gonzalez-2ba888174).
 
 Aviso: No esperes un festival de publicaciones diarias, ya que mi actividad en la plataforma es tan esporádica como mis apariciones en televisión. Guiño, guiño.
