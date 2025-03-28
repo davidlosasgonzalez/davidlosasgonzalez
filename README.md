@@ -4,13 +4,15 @@
   <sub><i>📌 Esta imagen fue generada con IA. Si ves alguna falta de ortografía, no es culpa mía... ¡la IA aún tiene cosas que aprender! 😆</i></sub>
 </div>
 
-## 🚀 𝗗avid Losas González
+## 🚀 David Losas González | Full Stack JavaScript Developer | React · Node.js · SQL
 
-No soy el típico programador que nació con un teclado entre manos. Antes de sumergirme en el mundo del código, pasé por la cocina, la música y hasta la televisión. Fui cantante de orquesta en verbenas gallegas durante 8 años, tuve una efímera aparición en _Serramoura_ (TVG), doblé anuncios y puse mi granito de arena en el doblaje de la serie _Merlí_ en gallego.  
-**¡Un plus artístico que demuestra que la creatividad no se limita al código!**
+No soy el típico programador que nació con un teclado en las manos. Antes de sumergirme en el mundo del código, exploré ámbitos tan diversos como la cocina profesional, la música en directo y la televisión, desarrollando versatilidad y capacidad de adaptación.
 
-Tras estudiar telecomunicaciones, hice mis prácticas en **HACK A BOSS** y he estado allí desde **2019**, pasando de coordinador técnico a docente. Llevo más de 30 bootcamps formando a futuros desarrolladores en tecnologías y herramientas modernas.  
-_¡La IA podrá hacer muchas cosas, pero aún no puede replicar a un 4x4 como yo!_
+Mi camino profesional se orientó hacia la tecnología tras estudiar telecomunicaciones, realizando mis prácticas en HACK A BOSS, donde rápidamente pasé de coordinador técnico a docente principal. Desde entonces, he impartido más de 30 bootcamps, ayudando a cientos de personas a iniciarse en HTML, CSS, JavaScript, MySQL, Node.js, React y Git.
+
+Disfruto especialmente guiando a mis alumnos desde sus primeros pasos hasta la creación de aplicaciones completas. Me motiva enormemente combinar mi experiencia técnica con habilidades comunicativas, haciendo del aprendizaje un proceso práctico, claro y ameno.
+
+Un perfil técnico con enfoque educativo, comunicación efectiva y adaptabilidad. ¿Se puede pedir más? 🚀😆
 
 ## 💻 Stack Tecnológico
 
