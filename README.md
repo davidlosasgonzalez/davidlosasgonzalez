@@ -6,13 +6,13 @@
 
 ## 🚀 David Losas González | Full Stack JavaScript Developer | React · Node.js · SQL
 
-No soy el típico programador que nació con un teclado en las manos. Antes de sumergirme en el mundo del código, exploré ámbitos tan diversos como la cocina profesional, la música en directo y la televisión, desarrollando versatilidad y capacidad de adaptación.
+Desde 2019 he liderado más de 30 bootcamps como Coordinador Técnico en HACK A BOSS, formando a futuros desarrolladores en tecnologías como JavaScript, Node.js, React, SQL, HTML y CSS. Durante estos años he revisado y optimizado cientos de proyectos, aportando valor desde la resolución de bugs hasta la implementación de clean code, testing y estructuras escalables.
 
-Mi camino profesional se orientó hacia la tecnología tras estudiar telecomunicaciones, realizando mis prácticas en HACK A BOSS, donde rápidamente pasé de coordinador técnico a docente principal. Desde entonces, he impartido más de 30 bootcamps, ayudando a cientos de personas a iniciarse en HTML, CSS, JavaScript, MySQL, Node.js, React y Git.
+Además de enseñar, desarrollo activamente: programo, mantengo y refactorizo código a diario. Tuve la oportunidad de participar en el desarrollo inicial de Twoller, una startup del sector travel-tech, aplicando el stack JavaScript en un entorno de producto real.
 
-Disfruto especialmente guiando a mis alumnos desde sus primeros pasos hasta la creación de aplicaciones completas. Me motiva enormemente combinar mi experiencia técnica con habilidades comunicativas, haciendo del aprendizaje un proceso práctico, claro y ameno.
+Actualmente, estoy consolidando mis habilidades con TypeScript, Redux, Next.js, Nest.js y pruebas automatizadas con Jest y Testing Library.
 
-Un perfil técnico con enfoque educativo, comunicación efectiva y adaptabilidad. ¿Se puede pedir más? 🚀😆
+Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. ¿Se puede pedir más? 🚀😆
 
 ## 💻 Stack Tecnológico
 
@@ -30,13 +30,17 @@ Un perfil técnico con enfoque educativo, comunicación efectiva y adaptabilidad
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ### 🔥 Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-76BC1C?style=for-the-badge)
 
 ### 🛢️ Bases de Datos & ORM
 
@@ -45,16 +49,17 @@ Un perfil técnico con enfoque educativo, comunicación efectiva y adaptabilidad
 ![SQL](https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=databricks&logoColor=black)
 ![TypeORM](https://img.shields.io/badge/TypeORM-2C2255?style=for-the-badge&logo=typeorm&logoColor=white)
 
+### 🧪 Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
 ### ⚙️ Herramientas & Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-### 📚 Actualmente Aprendiendo
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
@@ -74,6 +79,6 @@ Un perfil técnico con enfoque educativo, comunicación efectiva y adaptabilidad
 
 ## 📫 Contacto
 
-Si quieres conectar puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/david-losas-gonzalez-2ba888174).
+Si quieres conectar puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/david-losas-gonzalez).
 
 Aviso: No esperes un festival de publicaciones diarias, ya que mi actividad en la plataforma es tan esporádica como mis apariciones en televisión. Guiño, guiño.
