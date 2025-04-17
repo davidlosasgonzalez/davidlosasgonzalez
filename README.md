@@ -12,7 +12,7 @@ Además de enseñar, desarrollo activamente: programo, mantengo y refactorizo c�
 
 Actualmente, estoy consolidando mis habilidades con Redux, Next.js, Nest.js y pruebas automatizadas con Jest y Testing Library.
 
-Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. ¿Se puede pedir más? 🚀😆
+Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. ¿Se puede pedir más?
 
 ## 💻 Stack Tecnológico
 
