@@ -71,14 +71,9 @@ Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de anál
 
 ## 🏆 Experiencia
 
--   **Docente y Mentor en HACK A BOSS (desde 2019)**  
+-   **Coordinador Técnico en HACK A BOSS (desde 2019)**  
     Más de 30 bootcamps en tecnologías web y programación, ayudando a transformar a novatos en desarrolladores profesionales.
-
--   **Trayectoria Artística (Complemento 4x4):**  
-    Mi pasado en la música y la televisión – como cantante en verbenas gallegas, aparición en TV y doblaje – añade un toque creativo y divertido a mi perfil. ¡Porque un 4x4 siempre tiene un as bajo la manga!
 
 ## 📫 Contacto
 
 Si quieres conectar puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/david-losas-gonzalez).
-
-Aviso: No esperes un festival de publicaciones diarias, ya que mi actividad en la plataforma es tan esporádica como mis apariciones en televisión. Guiño, guiño.
