@@ -6,13 +6,13 @@
 
 ## 🚀 David Losas González | Full Stack JavaScript Developer | React · Node.js · SQL
 
-Desde 2019 he liderado más de 30 bootcamps como Coordinador Técnico en HACK A BOSS, formando a futuros desarrolladores en tecnologías como JavaScript, Node.js, React, SQL, HTML y CSS. Durante estos años he revisado y optimizado cientos de proyectos, aportando valor desde la resolución de bugs hasta la implementación de clean code, testing y estructuras escalables.
+Desde 2019 he estado involucrado en más de 30 bootcamps como Coordinador Técnico en HACK A BOSS, formando a futuros desarrolladores en tecnologías como JavaScript, Node.js, React, SQL, HTML y CSS. Durante estos años he revisado y optimizado cientos de proyectos, aportando valor desde la resolución de bugs hasta la implementación de clean code, testing y estructuras escalables.
 
 Además de enseñar, desarrollo activamente: programo, mantengo y refactorizo código a diario. Tuve la oportunidad de participar en el desarrollo inicial de Twoller, una startup del sector travel-tech, aplicando el stack JavaScript en un entorno de producto real.
 
-Actualmente, estoy consolidando mis habilidades con TypeScript, Redux, Next.js, Nest.js y pruebas automatizadas con Jest y Testing Library.
+Actualmente, estoy consolidando mis habilidades con Redux, Next.js, Nest.js y pruebas automatizadas con Jest y Testing Library.
 
-Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. ¿Se puede pedir más? 🚀😆
+Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. Me caracterizo por ser proactivo, resolutivo y autónomo, con capacidad de análisis y toma de decisiones técnicas fundamentadas. ¿Se puede pedir más? 🚀😆
 
 ## 💻 Stack Tecnológico
 
